@@ -28,7 +28,7 @@ o Account Age: the time passed since the user created the account.
 
 o Description: some information was written in account's bio.
 
-Location: indicates the location of the user that was entered in his/her profile.
+o Location: indicates the location of the user that was entered in his/her profile.
 
 o Number of Followers: the number of people who are following and reading the user's tweets.
 
