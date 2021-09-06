@@ -1,3 +1,4 @@
+
 library(caTools)
 library(e1071)
 library(superml)
@@ -13,9 +14,6 @@ library(mlbench)
 library(DataExplorer)
 #library(contextual)
 dataset=read_excel('')
-
-#balanced data file 
-#dataset = read_excel('')
 
 #dataframe structure
 str(dataset) 
